@@ -1,0 +1,3 @@
+tmpfile    = "dealership_temp.tmp"
+logfile    = "dealership_logfile.txt"
+targetfile = "dealership_transformed_data.csv"
