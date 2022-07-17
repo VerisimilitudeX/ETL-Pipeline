@@ -4,3 +4,5 @@
 *   Extract data from the above file types.
 *   Transform data.
 *   Save the transformed data which can be used to load into an RDBMS.
+
+###### Credit goes to the IBM Corporation for the data sources
