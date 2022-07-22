@@ -5,4 +5,4 @@
 *   Transform data.
 *   Save the transformed data which can be used to load into an RDBMS.
 
-###### Credit goes to the IBM Corporation for the data sources
+###### Data sources are attributed to the IBM Corporation under the MIT License
