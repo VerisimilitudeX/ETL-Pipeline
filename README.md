@@ -1,5 +1,5 @@
 # ETL Pipeline
-## Aquired ETL Pipeline Skills
+## Skills Gained
 *   Read CSV, JSON, and XML file types.
 *   Extract data from the above file types.
 *   Transform data.
